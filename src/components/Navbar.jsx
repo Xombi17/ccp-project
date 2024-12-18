@@ -17,9 +17,7 @@ function Navbar() {
             <a href="#" onClick={handleMapClick} className="text-gray-600 hover:text-indigo-600">
               Cultural Map
             </a>
-            <Link to="/states" className="text-gray-600 hover:text-indigo-600">
-              States
-            </Link>
+         
             <Link to="/marketplace" className="text-gray-600 hover:text-indigo-600">
               Marketplace
             </Link>
