@@ -4,7 +4,7 @@
     "name": "Warli Art Painting",
     "description": "Traditional Warli tribal art painting depicting daily life scenes",
     "price": 2500,
-    "image": "https://example.com/warli-art.jpg",
+    "image": "https://silkroadgallery.co.uk/cdn/shop/articles/Warli-painting-of-village-and-river06477thumb_1200x1200.jpg?v=1713002772",
     "artisan": "Rajesh Patel",
     "region": "Maharashtra",
     "category": "Wall Art"
@@ -14,7 +14,7 @@
     "name": "Brass Dhokra Sculpture",
     "description": "Hand-crafted tribal metal craft using lost-wax casting technique",
     "price": 3500,
-    "image": "https://example.com/dhokra.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7OIVxXylmE3AGdzbYeOuU5SPP2FmGA9Bzxw&s",
     "artisan": "Meena Kumari",
     "region": "Gujarat",
     "category": "Sculpture"
@@ -24,9 +24,180 @@
     "name": "Kathakali Mask",
     "description": "Traditional hand-painted wooden mask used in Kathakali dance",
     "price": 4000,
-    "image": "https://example.com/kathakali-mask.jpg",
+    "image": "https://cdn.shopify.com/s/files/1/0155/8131/files/Pinterest_Pragati_Newalkar_480x480.jpg?v=1708437889",
     "artisan": "Krishna Kumar",
     "region": "Kerala",
     "category": "Decorative"
+  }
+  ,
+  {
+    "id": 4,
+    "name": "Madhubani Painting",
+    "description": "Vibrant folk painting depicting nature and mythological scenes",
+    "price": 3000,
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/1/374505147/WT/CP/KY/104750020/48b28125899c1e45c876fc425e7fada4-500x500.jpg",
+    "artisan": "Sunita Devi",
+    "region": "Bihar",
+    "category": "Wall Art"
+  },
+  {
+    "id": 5,
+    "name": "Pashmina Shawl",
+    "description": "Hand-woven pure pashmina wool shawl with traditional designs",
+    "price": 15000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgX21S1qH0Gzy53cOFucEtu1kyplL979MEgt9aIv3Wjc5Ijll_4iOR9VzNm9uW4JcdRqs&usqp=CAU",
+    "artisan": "Abdul Rashid",
+    "region": "Kashmir",
+    "category": "Textiles"
+  },
+  {
+    "id": 6, 
+    "name": "Blue Pottery",
+    "description": "Hand-crafted ceramic pottery with Persian-inspired designs",
+    "price": 2000,
+    "image": "https://www.aravalii.com/cdn/shop/products/aravalli-9-of-29.jpg?v=1674802689&width=900",
+    "artisan": "Ramesh Kumar",
+    "region": "Rajasthan",
+    "category": "Pottery"
+  },
+  {
+    "id": 7,
+    "name": "Kanjeevaram Silk Saree",
+    "description": "Pure silk saree with traditional temple border designs",
+    "price": 25000,
+    "image": "https://www.mimosa.in/cdn/shop/products/file_3782a700-b746-4170-89b1-3cc0be15355f.jpg?v=1692564645&width=1214",
+    "artisan": "Lakshmi Devi",
+    "region": "Tamil Nadu", 
+    "category": "Textiles"
+  },
+  {
+    "id": 8,
+    "name": "Bidriware Vase",
+    "description": "Metal vase with silver inlay work in traditional patterns",
+    "price": 8000,
+    "image": "https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/lot_images/xlarge/3fd0f65b-65a1-ed11-9a88-00224801d10d/85d1cfd4-52cd-ed11-a7c9-6045bd0f94d6.webp",
+    "artisan": "Mohammed Ali",
+    "region": "Karnataka",
+    "category": "Metalwork"
+  },
+  {
+    "id": 9,
+    "name": "Phulkari Dupatta",
+    "description": "Hand-embroidered cotton dupatta with geometric patterns",
+    "price": 3500,
+    "image": "https://i.pinimg.com/564x/77/90/2f/77902f285d9675f797190e06d3364d93.jpg",
+    "artisan": "Harpreet Kaur",
+    "region": "Punjab",
+    "category": "Textiles"
+  },
+  {
+    "id": 10,
+    "name": "Dokra Bell",
+    "description": "Traditional brass bell made using lost-wax casting",
+    "price": 1500,
+    "image": "https://img.tatacliq.com/images/i14/658Wx734H/MP000000019671716_658Wx734H_202310171113571.jpeg",
+    "artisan": "Bishnu Das",
+    "region": "West Bengal",
+    "category": "Metalwork"
+  },
+  {
+    "id": 11,
+    "name": "Chikan Embroidery Kurta",
+    "description": "Cotton kurta with delicate white thread embroidery",
+    "price": 2800,
+    "image": "https://nazranachikan.com/cdn/shop/files/05_4ca4e300-2261-4213-8968-1b5b585483c8_1080x1080.jpg?v=1726819248",
+    "artisan": "Zainab Begum",
+    "region": "Uttar Pradesh",
+    "category": "Clothing"
+  },
+  {
+    "id": 12,
+    "name": "Bamboo Basket",
+    "description": "Hand-woven decorative bamboo basket",
+    "price": 1200,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSriJtK827snvk4J1K0ZrwLDhANwOISPpaP9Q&s",
+    "artisan": "Mohan Das",
+    "region": "Assam",
+    "category": "Home Decor"
+  },
+  {
+    "id": 13,
+    "name": "Pattachitra Painting",
+    "description": "Traditional scroll painting depicting mythological stories",
+    "price": 5000,
+    "image": "https://theindiacrafthouse.com/cdn/shop/files/Intricate_20Pattachitra_20Art_20Wooden_20Wall_20__20Table_20Plaque_20_2812__29_20-_20Krishna_20_26_20Radha_2C_20Dasha_20Avatar_20-_20PWP01A_205@2x.jpg",
+    "artisan": "Narayan Maharana",
+    "region": "Odisha",
+    "category": "Wall Art"
+  },
+  {
+    "id": 14,
+    "name": "Thangka Painting",
+    "description": "Buddhist religious scroll painting with intricate details",
+    "price": 12000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3QpvVdb1cdkmaeT9lCD2EKAb9mNpZX_FWPQ&s",
+    "artisan": "Tenzin Norbu",
+    "region": "Sikkim",
+    "category": "Religious Art"
+  },
+  {
+    "id": 15,
+    "name": "Gond Art Canvas",
+    "description": "Contemporary tribal art with nature-inspired motifs",
+    "price": 4000,
+    "image": "https://www.artzolo.com/cdn/shop/files/peacocks-gond-art-artzolo-com.jpg?v=1715692546",
+    "artisan": "Jangarh Singh Shyam",
+    "region": "Madhya Pradesh",
+    "category": "Wall Art"
+  },
+  {
+    "id": 16,
+    "name": "Kalamkari Textile",
+    "description": "Hand-painted cotton fabric with natural dyes",
+    "price": 4500,
+    "image": "https://bombaylooms.com/cdn/shop/files/PRAH-KA03-F-1003901_3_6a874488-faf6-4ef6-8b34-b89ce7bc49f4.jpg?v=1692177977",
+    "artisan": "Lakshmi Rao",
+    "region": "Andhra Pradesh",
+    "category": "Textiles"
+  },
+  {
+    "id": 17,
+    "name": "Naga Shawl",
+    "description": "Traditional handwoven shawl with tribal motifs",
+    "price": 3800,
+    "image": "https://cdn.dollsofindia.com/images/p/shawls/naga-shawl-EY54_l.jpg",
+    "artisan": "Imtisunep",
+    "region": "Nagaland",
+    "category": "Textiles"
+  },
+  {
+    "id": 18,
+    "name": "Kutch Embroidery Wall Hanging",
+    "description": "Mirror work embroidery with traditional patterns",
+    "price": 5500,
+    "image": "https://cdn.shopify.com/s/files/1/1194/1498/files/3.30x22closeup_1024x.jpg?v=1692198200",
+    "artisan": "Fatima Ben",
+    "region": "Gujarat",
+    "category": "Wall Art"
+  },
+  {
+    "id": 19,
+    "name": "Channapatna Wooden Toys",
+    "description": "Eco-friendly lacquered wooden toys",
+    "price": 800,
+    "image": "https://ritikart.com/cdn/shop/products/original1.3222434.3.jpg?v=1586329215",
+    "artisan": "Venkatesh",
+    "region": "Karnataka",
+    "category": "Toys"
+  },
+  {
+    "id": 20,
+    "name": "Zardozi Work Cushion Cover",
+    "description": "Gold thread embroidered velvet cushion cover",
+    "price": 3200,
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/7/328657908/TM/PN/MS/40148553/zardozi-silk-cushion-cover.jpeg",
+    "artisan": "Wasim Khan",
+    "region": "Delhi",
+    "category": "Home Decor"
   }
 ]
