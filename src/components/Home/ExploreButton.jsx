@@ -1,9 +1,10 @@
 import { motion } from 'framer-motion';
-import { useNavigate } from 'react-router-dom';
 import './ExploreButton.css';
 
 const ExploreButton = () => {
-  const navigate = useNavigate();
+  const handleClick = () => {
+    window.location.href = 'https://xombi17-streamlit-map-cultural-map-xpfuqj.streamlit.app/'; // Replace with your desired URL
+  };
 
   return (
     <motion.button
@@ -13,7 +14,7 @@ const ExploreButton = () => {
         boxShadow: "0 0 25px rgba(255,255,255,0.5)"
       }}
       whileTap={{ scale: 0.95 }}
-      onClick={() => navigate('/map')}
+      onClick={handleClick}
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ 

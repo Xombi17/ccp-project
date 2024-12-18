@@ -1,6 +1,11 @@
 import { Link } from 'react-router-dom';
 
 function Navbar() {
+  const handleMapClick = (e) => {
+    e.preventDefault();
+    window.location.href = 'https://xombi17-streamlit-map-cultural-map-xpfuqj.streamlit.app/';
+  };
+
   return (
     <nav className="bg-white shadow-lg">
       <div className="container mx-auto px-4">
@@ -9,8 +14,11 @@ function Navbar() {
             Indian Cultural Marketplace
           </Link>
           <div className="flex space-x-4">
-            <Link to="/" className="text-gray-600 hover:text-indigo-600">
+            <a href="#" onClick={handleMapClick} className="text-gray-600 hover:text-indigo-600">
               Cultural Map
+            </a>
+            <Link to="/states" className="text-gray-600 hover:text-indigo-600">
+              States
             </Link>
             <Link to="/marketplace" className="text-gray-600 hover:text-indigo-600">
               Marketplace
