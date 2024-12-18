@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Warli Art Painting",
+    "description": "Traditional Warli tribal art painting depicting daily life scenes",
+    "price": 2500,
+    "image": "https://example.com/warli-art.jpg",
+    "artisan": "Rajesh Patel",
+    "region": "Maharashtra",
+    "category": "Wall Art"
+  },
+  {
+    "id": 2,
+    "name": "Brass Dhokra Sculpture",
+    "description": "Hand-crafted tribal metal craft using lost-wax casting technique",
+    "price": 3500,
+    "image": "https://example.com/dhokra.jpg",
+    "artisan": "Meena Kumari",
+    "region": "Gujarat",
+    "category": "Sculpture"
+  },
+  {
+    "id": 3,
+    "name": "Kathakali Mask",
+    "description": "Traditional hand-painted wooden mask used in Kathakali dance",
+    "price": 4000,
+    "image": "https://example.com/kathakali-mask.jpg",
+    "artisan": "Krishna Kumar",
+    "region": "Kerala",
+    "category": "Decorative"
+  }
+]
